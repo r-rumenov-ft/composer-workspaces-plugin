@@ -22,7 +22,7 @@ Installation
 Add `r-rumenov-ft/composer-workspaces-plugin` to your project:
 
 ```sh
-composer require --dev r-rumenov-ft/composer-workspaces-plugin=^2.0.1-beta2
+composer require --dev r-rumenov-ft/composer-workspaces-plugin=^2.0.1-beta3
 ```
 
 Usage

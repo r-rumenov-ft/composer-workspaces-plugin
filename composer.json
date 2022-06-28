@@ -8,10 +8,10 @@
             "name": "tmdk",
             "email": "tobiasvandijk@gmail.com"
         },
-	{
-	    "name": "r-rumenov-ft",
-	    "email": "rumen.rumenov@ft.com"
-	}
+        {
+            "name": "r-rumenov-ft",
+            "email": "rumen.rumenov@ft.com"
+        }
     ],
     "require": {
         "composer-plugin-api": "^2.0",

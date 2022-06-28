@@ -1,4 +1,7 @@
-## 2.0.2-beta1 2022-06-28
+## 2.0.1-beta3 2022-06-28
+- Versioning fix.
+
+## 2.0.1-beta2 2022-06-28
 - Readme fix & bootstrap fix.
 
 ## 2.0.1-beta1 2022-06-28
