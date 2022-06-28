@@ -3,6 +3,8 @@ Workspaces Plugin for Composer
 
 This composer plugin enables you to work with a monorepo containing multiple composer packages in a way similar to [Yarn Workspaces](https://yarnpkg.com/lang/en/docs/workspaces/).
 
+THIS IS A FORK OF THE ORIGINAL REPO, UPDATED TO SUPPORT PHP V8, WITH NO OTHER CHANGES.
+
 Requirements
 ------------
 - PHP 7.1 or above
@@ -20,7 +22,7 @@ Installation
 Add `tmdk/composer-workspaces-plugin` to your project:
 
 ```sh
-composer require --dev tmdk/composer-workspaces-plugin=^2.0.0
+composer require --dev tmdk/composer-workspaces-plugin=^2.0.1-beta0
 ```
 
 Usage

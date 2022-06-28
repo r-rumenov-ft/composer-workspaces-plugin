@@ -1,3 +1,6 @@
+## 2.0.1-beta0 2022-06-28
+- Added php 8 support.
+
 ## 2.0.0 2022-04-25
 
 ### Changed
