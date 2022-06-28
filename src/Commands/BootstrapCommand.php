@@ -50,7 +50,7 @@ EOT
         // prevents runInWorkspace from exiting after running the command
         $application->setAutoExit(false);
 
-        $requireCommand = new StringInput('require --dev tmdk/composer-workspaces-plugin=' . $this->getPluginVersion());
+        $requireCommand = new StringInput('require --dev r-rumenov-ft/composer-workspaces-plugin-fork=' . $this->getPluginVersion());
 
         $exitCode = 0;
 
